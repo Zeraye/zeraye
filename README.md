@@ -1,1 +1,1 @@
-[pepe](pepe.gif)
+![pepe](pepe.gif)
