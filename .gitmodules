@@ -1,3 +1,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/Zeraye/blog
+[submodule "www"]
+	path = www
+	url = https://github.com/Zeraye/www
