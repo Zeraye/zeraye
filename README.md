@@ -16,14 +16,11 @@ frameworks:
 - flask
 - rasa
 
-projects (websites):
+projects:
 
-- [wut-calculator](https://zeraye.github.io/wut-calculator/)
-- [rege](https://zeraye.github.io/rege/)
-- [ageing](https://zeraye.github.io/ageing/)
-
-projects (repos):
-
+- [wut-calculator](https://github.com/zeraye/wut-calculator) [website](https://zeraye.github.io/wut-calculator/)
+- [rege](https://github.com/zeraye/rege) [website](https://zeraye.github.io/rege/)
+- [ageing](https://github.com/zeraye/ageing) [website](https://zeraye.github.io/ageing/)
 - [papy](https://github.com/zeraye/papy)
 - [is-even](https://github.com/zeraye/is-even)
 - more, but readme sucks and the code itself is boring
