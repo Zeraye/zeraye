@@ -2,7 +2,7 @@ hi, i am jackob
 
 i'm a backend software engineer
 
-i like to click click in:
+i click click in:
 
 - golang <3
 - python3
