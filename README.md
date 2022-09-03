@@ -1,6 +1,4 @@
-hi, i am jackob
-
-i'm a backend software engineer
+hi, i am jackob, a backend software engineer
 
 i click click in:
 
