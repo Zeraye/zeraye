@@ -37,7 +37,7 @@ love:
 
 if u have dignity use:
 
-- not chromium-based browsers (e.g. firefox)
+- not chromium-based browsers (e.g. firefox, safari, tor)
 - duckduckgo/startpage
 - not gmail (e.g. protonmail)
 
