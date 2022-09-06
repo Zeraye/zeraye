@@ -2,7 +2,7 @@ hi, i'm jackob, a backend software engineer
 
 i click click in:
 
-- golang <3
+- **golang** <3
 - python3
 - ts/css3/html5
 - c/c++
