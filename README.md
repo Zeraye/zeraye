@@ -21,7 +21,7 @@ projects:
 - [ageing](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
 - [papy](https://github.com/zeraye/papy)
 - [is-even](https://github.com/zeraye/is-even)
-- more, but readme sucks and the code itself is boring
+- and much more, but readme sucks and the code itself is boring
 
 firefox addons:
 
