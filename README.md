@@ -7,12 +7,14 @@ i click click in:
 - ts/css3/html5
 - c/c++
 
-frameworks:
+frameworks and stuff:
 
 - react
 - django
 - flask
 - rasa
+- mongo
+- aws
 
 projects:
 
