@@ -1,4 +1,4 @@
-hi, i'm jackob, a backend software engineer
+hi, i'm jackob,
 
 i click click in:
 
@@ -35,7 +35,7 @@ love:
 
 - cooking
 - privacy
-- asia
+- eastern asia
 
 if u have dignity use:
 
