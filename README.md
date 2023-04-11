@@ -18,7 +18,7 @@ technologies:
 
 projects:
 
-- [firefox addon for free chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
+- [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
 - [points calculator for university](https://github.com/zeraye/wut-calculator) ([website](https://zeraye.github.io/wut-calculator/))
 - [gender recognition by voice](https://github.com/zeraye/rege) ([website](https://zeraye.github.io/rege/)) no longer maintained
 - [see how time pass](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
