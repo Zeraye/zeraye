@@ -18,12 +18,13 @@ technologies:
 
 projects:
 
-- [chess-analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
-- [wut-calculator](https://github.com/zeraye/wut-calculator) ([website](https://zeraye.github.io/wut-calculator/))
-- [rege](https://github.com/zeraye/rege) ([website](https://zeraye.github.io/rege/)) no longer maintained
-- [ageing](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
-- [youtube-dislikes-counter](https://github.com/zeraye/youtube-dislikes-counter) no longer maintained
-- [facebook-speech-recognition](https://github.com/zeraye/facebook-speech-recognition) no longer maintained
+- [firefox addon for free chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
+- [points calculator for university](https://github.com/zeraye/wut-calculator) ([website](https://zeraye.github.io/wut-calculator/))
+- [gender recognition by voice](https://github.com/zeraye/rege) ([website](https://zeraye.github.io/rege/)) no longer maintained
+- [see how time pass](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
+- [chess engine](https://github.com/zeraye/buba)
+- [show youtube dislike counter](https://github.com/zeraye/youtube-dislikes-counter) no longer maintained
+- [speech recoginiton on facebook](https://github.com/zeraye/facebook-speech-recognition) no longer maintained
 - and much more, but boring
 
 interests:
