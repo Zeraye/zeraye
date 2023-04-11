@@ -11,6 +11,7 @@ technologies:
 
 - django/flask/fastapi
 - aws
+- docker
 - react
 - rasa
 - mongo/mssql/sql
