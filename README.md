@@ -1,46 +1,41 @@
 hi, i'm jackob,
 
-i click click in:
+languages:
 
-- **golang** <3
-- python3
+- golang/python3
 - ts/css3/html5
-- c/c++
+- c/c++/c#
+- english, but syntax sucks
 
-frameworks and stuff:
+technologies:
 
-- react
-- django
-- flask
-- rasa
-- mongo
+- django/flask/fastapi
 - aws
+- react
+- rasa
+- mongo/mssql/sql
+- dotnet
 
 projects:
 
-- [wut-calculator](https://github.com/zeraye/wut-calculator) ([website](https://zeraye.github.io/wut-calculator/))
-- [rege](https://github.com/zeraye/rege) ([website](https://zeraye.github.io/rege/))
-- [ageing](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
-- [papy](https://github.com/zeraye/papy)
-- [is-even](https://github.com/zeraye/is-even)
-- and much more, but readme sucks and the code itself is boring
-
-firefox addons:
-
 - [chess-analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
+- [wut-calculator](https://github.com/zeraye/wut-calculator) ([website](https://zeraye.github.io/wut-calculator/))
+- [rege](https://github.com/zeraye/rege) ([website](https://zeraye.github.io/rege/)) no longer maintained
+- [ageing](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
 - [youtube-dislikes-counter](https://github.com/zeraye/youtube-dislikes-counter) no longer maintained
 - [facebook-speech-recognition](https://github.com/zeraye/facebook-speech-recognition) no longer maintained
+- and much more, but boring
 
-love:
+interests:
 
 - cooking
 - privacy
-- eastern asia
+- eastern asian culture
 
-if u have dignity use:
+if you have dignity use:
 
 - not chromium-based browsers (e.g. firefox, safari, tor)
 - duckduckgo/startpage
 - not gmail (e.g. protonmail)
 
-lov u all
+code with ❤️
