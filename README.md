@@ -16,6 +16,7 @@ technologies:
 - rasa
 - mongo/mssql/sql
 - dotnet
+- gnu/linux
 
 projects:
 
