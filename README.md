@@ -21,9 +21,9 @@ technologies:
 projects:
 
 - [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
-- [points calculator for university](https://github.com/zeraye/wut-calculator) ([website](https://zeraye.github.io/wut-calculator/))
-- [gender recognition by voice](https://github.com/zeraye/rege) ([website](https://zeraye.github.io/rege/)) no longer maintained
-- [see how time pass](https://github.com/zeraye/ageing) ([website](https://zeraye.github.io/ageing/))
+- [points calculator for university](https://zeraye.github.io/wut-calculator/) ([repository](https://github.com/zeraye/wut-calculator))
+- [gender recognition by voice](https://zeraye.github.io/rege/) ([repository](https://github.com/zeraye/rege)) no longer maintained
+- [see how time pass](https://zeraye.github.io/ageing/) ([repository](https://github.com/zeraye/ageing))
 - [chess engine](https://github.com/zeraye/buba)
 - [show youtube dislike counter](https://github.com/zeraye/youtube-dislikes-counter) no longer maintained
 - [speech recoginiton on facebook](https://github.com/zeraye/facebook-speech-recognition) no longer maintained
