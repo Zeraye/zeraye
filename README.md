@@ -20,7 +20,7 @@ technologies:
 
 projects:
 
-- [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/)
+- [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/) ([repository](https://github.com/zeraye/chess-analysis-firefox-extension))
 - [points calculator for university](https://zeraye.github.io/wut-calculator/) ([repository](https://github.com/zeraye/wut-calculator))
 - [gender recognition by voice](https://zeraye.github.io/rege/) ([repository](https://github.com/zeraye/rege)) no longer maintained
 - [3d game engine](https://github.com/zeraye/minecraft)
