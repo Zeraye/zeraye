@@ -1,3 +1,5 @@
+![stats](https://github-readme-stats.vercel.app/api?username=zeraye&theme=gruvbox&show_icons=true)
+
 hi, i'm jackob,
 
 languages:
