@@ -1,24 +1,29 @@
-hi, i'm jackob,
+Hi, I am Jackob,
 
-languages:
+Languages:
 
-- golang/python3
-- ts/css3/html5
-- c/c++/c#
-- english, but syntax sucks
+- python3
+- golang
+- ts/js
+- css/html
+- c#
+- c++
+- c
 
-technologies:
+Technologies:
 
-- django/flask/fastapi
+- django
+- flask
+- fastapi
 - aws
 - docker
 - react
 - rasa
-- mongo/mssql/sql
+- mongodb/mssql/sql
 - dotnet
 - gnu/linux
 
-projects:
+Projects:
 
 - [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/) ([repository](https://github.com/zeraye/chess-analysis-firefox-extension))
 - [points calculator for university](https://zeraye.github.io/wut-calculator/) ([repository](https://github.com/zeraye/wut-calculator))
@@ -28,18 +33,12 @@ projects:
 - [chess engine](https://github.com/zeraye/buba)
 - [show youtube dislike counter](https://github.com/zeraye/youtube-dislikes-counter) no longer maintained
 - [speech recoginiton on facebook](https://github.com/zeraye/facebook-speech-recognition) no longer maintained
-- and much more, but boring
+- and much more
 
-interests:
+Interests:
 
 - cooking
 - privacy
 - eastern asian culture
-
-if you have dignity use:
-
-- not chromium-based browsers (e.g. firefox, safari, tor)
-- duckduckgo/startpage
-- not gmail (e.g. protonmail)
 
 code with ❤️
