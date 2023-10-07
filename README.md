@@ -1,28 +1,5 @@
 Hi, I am Jackob,
 
-Languages:
-
-- python3
-- golang
-- ts/js
-- css/html
-- c#
-- c++
-- c
-
-Technologies:
-
-- django
-- flask
-- fastapi
-- aws
-- docker
-- react
-- rasa
-- mongodb/mssql/sql
-- dotnet
-- gnu/linux
-
 Projects:
 
 - [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/) ([repository](https://github.com/zeraye/chess-analysis-firefox-extension))
