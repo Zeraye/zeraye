@@ -12,10 +12,4 @@ Projects:
 - [speech recoginiton on facebook](https://github.com/zeraye/facebook-speech-recognition) no longer maintained
 - and much more
 
-Interests:
-
-- cooking
-- privacy
-- eastern asian culture
-
 code with ❤️
