@@ -3,6 +3,7 @@ Hi, I am Jacob,
 Projects:
 
 - [firefox addon for chess analysis](https://addons.mozilla.org/en-US/firefox/addon/chess-com-analyse-at-lichess/) ([repository](https://github.com/zeraye/chess-analysis-firefox-extension))
+- [web 3d game](https://github.com/zeraye/minceraft](https://minceraft-jade.vercel.app/)) ([repository](https://github.com/zeraye/minceraft))
 - [points calculator for university](https://zeraye.github.io/wut-calculator/) ([repository](https://github.com/zeraye/wut-calculator))
 - [gender recognition by voice](https://zeraye.github.io/rege/) ([repository](https://github.com/zeraye/rege)) no longer maintained
 - [3d game engine](https://github.com/zeraye/minecraft)
